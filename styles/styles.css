@@ -296,3 +296,78 @@ line-height: 31px;
 font-weight: 400;
 line-height: 23px;
 }
+
+.moti1 {
+    max-width: 1470px;
+    height: 400px;
+    margin: 0 auto;
+    background-image: url(../assets/handshake.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 15px;
+    margin-top: 60px;
+}
+
+.moti2 {
+    width: 1470px;
+    height: 400px;
+    border-radius: 15px;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2));
+    text-align: center;
+}
+
+.moti3 {
+    color: #FFF;
+    font-size: 28px;
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+}
+
+.moti4 {
+    color: #bdbab9;
+}
+
+
+.moti6 {
+    display: flex;
+    gap: 10px;
+    margin: 25px 450px;
+}
+
+.moti6 input {
+    padding: 11px 20px;
+    width: 365px;
+    border-radius: 5px;
+    border: none;
+}
+
+.moti6 button {
+    padding: 12px 54px;
+    font-size: 20px;
+    font-weight: 600;
+    background: #ffffff;
+    border-radius: 5px;
+    border: none;
+}
+.moti6 button a{
+    color: black;
+    text-decoration: none;
+}
+.footer-1 {
+    display: flex;
+    gap: 50%;
+    margin-top: 25px;
+    background-color: #f8f8f8;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.footer-1 h2 {
+    font-size: 25px;
+}
+
+.icon {
+    font-size: 30px;
+    margin-top: 15px;
+}
